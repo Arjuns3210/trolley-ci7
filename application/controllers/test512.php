@@ -1,0 +1,1 @@
+ class test5.php {}ewdwedwedwedwedwdwd

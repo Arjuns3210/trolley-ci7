@@ -1,0 +1,11 @@
+{
+    "name": "tvmall/web",
+    "require": {
+      },
+    "authors": [
+        {
+            "name": "David Whittaker",
+            "email": "david@dawpro.co.za"
+        }
+    ]
+}

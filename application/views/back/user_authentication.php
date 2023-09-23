@@ -1,0 +1,1 @@
+<center><H1><?php echo $msg; ?></H1></center>

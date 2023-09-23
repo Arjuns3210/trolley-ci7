@@ -1,0 +1,56 @@
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.coming-soon p { padding: 0; }
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper { width: 150px; }
+
+}
+
+@media (max-width: 767px) {
+	
+	.coming-soon p { padding: 0; }
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper { width: 150px; }
+	.timer .slash { display: none; }
+	
+	.footer-copyright p, .footer-social { text-align: center; }
+	.footer-copyright { padding-bottom: 15px; }
+
+}
+
+@media (max-width: 550px) {
+
+    .subscribe form input { width: 95%; }
+    .subscribe form button { width: 95%; margin-top: 10px; }
+
+
+}
+
+@media (max-width: 400px) {
+	
+	h1, h2 { font-size: 25px; }
+        .timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper { width: 150px; border-bottom: 1px solid #ccc; padding-bottom:15px; margin-bottom: 10px;}
+}
+
+@media (max-width:459px)
+{
+    .android {
+        margin-bottom: 5px;
+    }
+    .download-area{width: 100%; margin:auto;}
+    .add{font-size: 16px;}
+
+    ul{
+        margin-top: 25px;
+    }
+ li{ float: none;
+    border-right: none;}
+.coming-soon span{
+font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+}
+
+
+

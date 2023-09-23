@@ -1,0 +1,5 @@
+[23-Mar-2020 17:01:00 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/zofhn9uhwbyi/public_html/demo/maakecommerce/application/models/Apis_models1.php on line 28
+[23-Mar-2020 17:03:54 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/zofhn9uhwbyi/public_html/demo/maakecommerce/application/models/Apis_models1.php on line 28
+[23-Mar-2020 17:04:05 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/zofhn9uhwbyi/public_html/demo/maakecommerce/application/models/Apis_models1.php on line 28
+[23-Mar-2020 17:06:22 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/zofhn9uhwbyi/public_html/demo/maakecommerce/application/models/Apis_models1.php on line 28
+[23-Mar-2020 17:10:17 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/zofhn9uhwbyi/public_html/demo/maakecommerce/application/models/Apis_models1.php on line 28

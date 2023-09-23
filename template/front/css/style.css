@@ -1,0 +1,230 @@
+
+body {
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+}
+
+strong { font-weight: 700; }
+
+a, a:hover, a:focus {
+	color: #fff;
+	text-decoration: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+h1{
+	font-size: 27px;
+}
+
+h2 {
+	margin-top: 10px;
+	font-size: 42px;
+    font-weight: 100;
+    line-height: 54px;
+    margin-bottom: 20px;
+}
+
+img { max-width: 100%; }
+
+
+/***** Coming Soon *****/
+
+.coming-soon {
+  width: 100%;
+  /*background-image: url(../images/food-store.jpg);*/ 
+  background-attachment: fixed;
+  background-position: left top;
+
+}
+
+
+.inner-bg {
+    padding: 30px 0 40px 0;
+    background-color: rgba(255,255,255,0.5);
+}
+
+.inner-bg hr {
+  border-top-style: dashed;
+}
+
+.coming-soon p {
+	margin: 0;
+  font-size: 20px;
+}
+.coming-soon span {
+    font-size: 18px;
+    line-height: 30px;
+}
+.address{
+	font-size: 18px;
+
+}
+.download-area{
+  width: 42%;
+  margin: auto;
+}
+p.download {
+    color: #000000;
+    font-weight: 400;
+}
+.add{margin-bottom: 20px;}
+hr.divider{
+  margin: 5px 0;
+}
+p.tc-pp{
+  color: #000;
+  font-size: 15px;
+  margin: 20px 0 10px;
+}
+p.tc-pp a{
+  color: #000;
+}
+p.copyright {
+    color: #000;
+    font-size: 14px;
+    font-weight: 300;
+}
+p.powered, p.powered a{
+  color: #000;
+  font-size: 14px;
+  font-weight: 300;
+}
+.terms-conditions-area {
+  color: #000;
+    text-align: justify;
+    border: 1px solid #dfdfdf;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.9);
+}
+.terms-conditions-area > p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.terms-conditions-area > h2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+.terms-conditions-area > h3 {
+    font-size: 17px;
+}
+/***** Footer *****/
+
+footer {
+	margin-top: 60px;
+	padding: 20px 0 15px 0;
+	background: #3d3d3d;
+	background: rgba(61, 61, 61, 0.3);
+}
+
+.footer-copyright p {
+	margin: 0;
+	font-size: 18px;
+    line-height: 32px;
+    color: #fff;
+    text-align: left;
+}
+
+.footer-copyright a { color: #fff; border-bottom: 1px dotted #fff; }
+.footer-copyright a:hover { color: #fff; border: 0; }
+
+.footer-social {
+	text-align: right;
+}
+
+/* social icons */
+.social-icon {
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	margin: 5px;
+	background: center center no-repeat;
+}
+
+.social-icon.facebook { background-image: url(../img/social-icons/facebook.png); }
+.social-icon.twitter { background-image: url(../img/social-icons/twitter.png); }
+.social-icon.dribbble { background-image: url(../img/social-icons/dribbble.png); }
+.social-icon.google-plus { background-image: url(../img/social-icons/google-plus.png); }
+
+.content-row > div {
+  margin-bottom: 30px;
+}
+
+.content-row .content-wrapper {
+  padding: 15px 15px;
+  border-top:1px dashed #ffffff;
+
+}
+
+.content-row .clearfix {
+  margin-bottom: 0px;
+}
+
+.content-row p {
+/*   margin-top: 15px; */
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.content-row h3 {
+  color: #3592CC;
+}
+
+.sub-text {
+  color:#010101;
+  font-size: 18px;
+}
+
+h2.comingsoon {
+    font-size: 30px;
+    color: #ffa81e;
+    font-weight: 300;
+}
+p.contactinfo {
+    color: #000;
+}
+.content-wrapper {
+   padding: 15px 15px;
+  border-top:1px dashed #ffffff;
+}
+
+.content-wrapper h3 {
+  color: #3592CC;
+}
+.content-wrapper {
+    background: #010101;
+}
+.content-wrapper p {
+/*   margin-top: 15px; */
+  font-size: 18px;
+/*   line-height: 25px; */
+}
+.enquiry-form {
+    background: rgba(255, 255, 255, 0.2);
+    width: 60%;
+    padding: 15px;
+    margin: 25px auto 0;
+    border: 1px dashed #009dff;
+}
+label.label-name {
+    text-align: left;
+    display: block;
+    font-weight: normal;
+}
+.enquiry-form > h3 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+span.mandatory {
+    color: red;
+}
+input.form-control {
+    padding: 20px;
+}

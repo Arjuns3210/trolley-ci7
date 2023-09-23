@@ -1,0 +1,8 @@
+nbproject
+images/
+images/*
+database-backup/
+application/config/config.php
+application/config/database.php
+index.php
+.htaccess
